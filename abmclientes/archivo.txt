@@ -1,1 +1,1 @@
-[{"dni":"1031648326","nombre":"Digna Amada Mendez Benavides","telefono":"3203544947","correo":"2015.jancarlo@gmail.com","imagen":""}]
+[{"dni":" 1031648326","nombre":"Digna Amada Mendez Benavides","telefono":"3226157333","correo":"2015.jancarlo@gmail.com","imagen":"20240128050114591224.jpg"}]
